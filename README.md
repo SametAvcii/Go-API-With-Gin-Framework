@@ -1,5 +1,7 @@
 # Go-API-With-Gin-Framework
 
+The Repo where I created Rest API using Gin framework
+
 Go Mod İnit
 
 go mod init gitlab.com/pragmaticreviews/golang-gin-poc
